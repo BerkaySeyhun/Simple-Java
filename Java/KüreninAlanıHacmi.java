@@ -1,4 +1,3 @@
-package pkg5.küreninalanıhacmi;
 
 import java.util.Scanner;
 
