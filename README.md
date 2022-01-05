@@ -1,4 +1,4 @@
 # SimpleJava
 
-EN = The area where simple codes are compiled and loaded
-TR = Basit kodların derlenip yüklendiği alan
+EN = The area where functional programs are compiled and loaded.
+TR = İşlevsel programların derlenip yüklendiği alan.
