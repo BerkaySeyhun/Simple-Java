@@ -1,6 +1,4 @@
 
-package pkg6.kmtomil;
-
 import java.util.Scanner;
 
 public class KmtoMil {
