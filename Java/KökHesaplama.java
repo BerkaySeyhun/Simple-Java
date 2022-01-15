@@ -1,4 +1,4 @@
-package pkg11.kökhesaplama;
+
 
 import java.util.Scanner;
 
